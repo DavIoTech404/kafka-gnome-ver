@@ -1,0 +1,18 @@
+{
+  "path": "/home/davi/EnVisia/EnScripts/kafka-projects/kafka_2.13-2.7.0/config/server.properties",
+  "id": "0",
+  "port": "9092",
+  "dir": "/tmp/kafka-logs"
+}
+{
+  "path": "/home/davi/EnVisia/EnScripts/kafka-projects/kafka_2.13-2.7.0/config/server.properties1",
+  "id": "1",
+  "port": "9093",
+  "dir": "/tmp/kafka-logs1"
+}
+{
+  "path": "/home/davi/EnVisia/EnScripts/kafka-projects/kafka_2.13-2.7.0/config/server.properties2",
+  "id": "2",
+  "port": "9094",
+  "dir": "/tmp/kafka-logs2"
+}
